@@ -2,7 +2,6 @@ from Github import ReadMe
 
 class Bix(ReadMe):
     "/Bix5/Bix5/README.md"
-
     def __init__(self):
         self.username = "Bix"
         self.contacts = {
