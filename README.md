@@ -1,15 +1,15 @@
 from Github import ReadMe
 
-class Bix(ReadMe):
-    "/Bix5/Bix5/README.md"
+class Starshopper(ReadMe):
+    "/Starshopper/Starshopper/README.md"
     
     def __init__(self):
-        self.username = "Bix"
+        self.username = "Starshopper"
         self.contacts = {
-            "Discord": "Bix#3582"
+            "Discord": "starshopper#2558"
         }
         self.alises = [
-            "Bix"
+            "Starshopper"
         ]
         self.location = "Ireland, United Kingdom"
         self.age = "18, Born 9 April 2003"
