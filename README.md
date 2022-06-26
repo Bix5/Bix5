@@ -1,7 +1,7 @@
 from Github import ReadMe
 
-class Starshopper(ReadMe):
-    "/Starshopper/Starshopper/README.md"
+class Starshoppers(ReadMe):
+    "/Starshoppers/Starshoppers/README.md"
     
     def __init__(self):
         self.username = "Starshopper"
